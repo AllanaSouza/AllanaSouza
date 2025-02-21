@@ -1,8 +1,8 @@
-- 👋 Hi, I'm @AllanaSouza
-- 👀 I've been a QA for over 8 years. I'm a specialist in Software Quality Management, PMI-PMBOK Project Management, and People and Business Management.
-- 🌱 I'm currently studying a postgraduate degree in Test Automation, whose tools and frameworks are JavaScript, Playwright, Grafana k6, Appium, Supertest, Mocha, UFT One, Github Actions, ChatGPT, Github Copilot, Cypress, and Cucumber
-- 💞️ I'm looking to collaborate in the exchange of experiences
-- 📫 How to contact me: https://www.linkedin.com/in/allanasouzaqa/
+- 👋 Olá, sou @AllanaSouza
+- 👀 Sou QA a +8 anos. Especialista em Gestão da Qualidade de Software, Gestão de Projetos PMI-PMBOK e Gestão de Pessoas e Negócios. 
+- 🌱 Atualmente estou cursando Pós Graduação em Automação de Testes cujas ferramentas e frameworks abordados são JavaScript, Playwright, Grafana k6, Appium, Supertest, Mocha, UFT One, Github Actions, ChatGPT, Github Copilot, Cypress e Cucumber
+- 💞️ Procuro colaborar na troca de experiências
+- 📫 Como entrar em contato comigo: https://www.linkedin.com/in/allanasouzaqa/
 
 <!---
 AllanaSouza/AllanaSouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
