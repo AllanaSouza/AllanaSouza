@@ -1,6 +1,6 @@
 - 👋 Olá, sou @AllanaSouza
 - 👀 Sou QA a +8 anos. Especialista em Gestão da Qualidade de Software, Gestão de Projetos PMI-PMBOK e Gestão de Pessoas e Negócios. 
-- 🌱 Atualmente estou cursando Pós Graduação em Automação de Testes cujas ferramentas e frameworks abordados são JavaScript, Playwright, Grafana k6, Appium, Supertest, Mocha, UFT One, Github Actions, ChatGPT, Github Copilot, Cypress e Cucumber
+- 🌱 Atualmente estou cursando Pós Graduação em Automação de Testes cujas ferramentas e frameworks abordados são JavaScript, WebDriver IO (Selenium), Grafana k6, Postman, Playwright, Cypress, Appium, entre outros.
 - 💞️ Procuro colaborar na troca de experiências
 - 📫 Como entrar em contato comigo: https://www.linkedin.com/in/allanasouzaqa/
 
