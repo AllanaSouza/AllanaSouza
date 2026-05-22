@@ -1,6 +1,6 @@
 - 👋 Olá, sou @AllanaSouza
 - 👀 Sou QA a +9 anos. Especialista em Gestão da Qualidade de Software com MBA em áreas correlacionadas a Projetos, Pessoas e Negócios. 
-- 🌱 Desenvolvendo melhor a skill de Automação de Testes Cypress em JavaScript.
+- 🌱 Desenvolvendo melhor a skill de Automação de Testes com IA
 - 📫 Linkedin: https://www.linkedin.com/in/allanasouzaqa/
 
 <!---
